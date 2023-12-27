@@ -5,4 +5,4 @@ Employee attrition rate, also known as staff turnover or employee churn, is a me
 A high attrition rate can have several implications for an organization. It may indicate dissatisfaction among employees, lack of engagement, or issues with the work environment. High turnover can be costly for businesses due to recruitment and training expenses, as well as potential disruptions in productivity and team dynamics.
 PBIX File link :https://drive.google.com/file/d/1dc_6DpIxvEYrEnXCdZiQaUIpyJHKu4ma/view?usp=sharing
 PDF Link : https://drive.google.com/file/d/1Z8RcjakWD-ECgfS7J9bZwamATV6b9Eyi/view?usp=sharing
-CANVA Link : https://www.canva.com/design/DAF4J38fVe4/04a8Ne8eCTWKg8xmVBZvpw/edit
+CANVA Link : https://drive.google.com/drive/folders/1eOkrsRvlyNnvFMe7HhfI8fojVlGz6mYQ
